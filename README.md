@@ -21,7 +21,7 @@ It offers two main features:
    interactions to create accessible floating UI components.
 
 ## README Sponsors
-
+## By Mudassir Alam
 <table>
   <tr>
     <td>
